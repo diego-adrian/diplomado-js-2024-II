@@ -2,3 +2,21 @@ body {
   background-color: #393838;
   color: #FFF;
 }
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .box {
+    margin: 5px;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #F90;
+    border-radius: 8px;
+    color: #F90;
+    cursor: pointer;
+  }
+}

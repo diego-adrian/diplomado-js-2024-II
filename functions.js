@@ -31,10 +31,10 @@ const dividir = (a, b) => a / b;
 // console.log(sumar(2, 3));
 
 const calculadora = (a, b, cb) => cb(a, b);
-console.log(calculadora(10, 3, sumar));
-console.log(calculadora(10, 3, restar));
-console.log(calculadora(10, 3, multiplicar));
-console.log(Math.round(calculadora(10, 3, dividir), 2));
+// console.log(calculadora(10, 3, sumar));
+// console.log(calculadora(10, 3, restar));
+// console.log(calculadora(10, 3, multiplicar));
+// console.log(Math.round(calculadora(10, 3, dividir), 2));
 
 
 

@@ -95,9 +95,9 @@ const delay = (time) => new Promise((resolve, reject) => setTimeout(resolve('ok'
 //   }
 // }
 
-const main = async () => {
-  const response = await Promise.allSettled([delay(10000), delay(2000), delay(3000), delay(4000)]);
-  console.log(response);
-}
+// const main = async () => {
+//   const response = await Promise.allSettled([delay(10000), delay(2000), delay(3000), delay(4000)]);
+//   console.log(response);
+// }
 
-main();
+// main();
