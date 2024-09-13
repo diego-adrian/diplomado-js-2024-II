@@ -1,4 +1,4 @@
-# Diplomado fullStack
+# Diplomado FullStack 2024
 
 Como sabemos estamos haciendo un juego llamadao **TRES EN RAYA** pero falta algunas funcionalidades como ser:
 
